@@ -2,7 +2,7 @@
 title: RNA-seq的gatk4分析流程
 description: 自己亲身实践的数据分析流程，希望能对大家有所帮助
 categories:
- - tutorial
+ - Bioimformations
 tags: gatk4, RNA-seq
 ---
 # GATK4：RNA-seq流程

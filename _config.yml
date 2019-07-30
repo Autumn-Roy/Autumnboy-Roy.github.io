@@ -217,7 +217,7 @@ font:
 social:
   #mail: 573541092@qq.com
   GitHub: https://github.com/Autumn-Roy
-
+  Weibo: https://www.weibo.com/u/1859129194
 
 # Social Links Icons
 # Icon Mapping:
@@ -231,12 +231,12 @@ social_icons:
   GitHub: github
   #mail: envelop
   #Twitter: twitter
-  #Weibo: weibo
+  Weibo: weibo
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: assets/images/avatar_roy.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -356,7 +356,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night 
 
 
 # ---------------------------------------------------------------
