@@ -1,11 +1,11 @@
 ---
-title: RNA-seq的gatk4分析流程
+title: RNA-seq call variants的GATK4分析流程
 description: 自己亲身实践的数据分析流程，希望能对大家有所帮助
 categories:
  - Bioimformations
 tags: gatk4, RNA-seq
 ---
-# GATK4：RNA-seq流程
+# GATK4：RNA-seq call variants流程
 ### 软件安装及数据准备
 ##### 1.准备数据
 - 建立分析过程中所需要的文件目录，并将**自己需要分析的数据**建立软链接。这里我以自己做过的绿盘鲍RNA-seq数据作为示例，展示完整的从比对到call snp的流程 
